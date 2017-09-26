@@ -14,6 +14,7 @@
  import classify from '../components/classify/classify.vue'
  // import indexPage from '../components/indexPage/indexPage.vue'
  import register from '../components/register/register.vue'
+ import usercenter from '../components/usercenter/usercenter.vue'
 
 /*
 // todo 首屏优化 将各路由组件分开打包
@@ -70,6 +71,10 @@ const seller = () => import('../components/seller/seller.vue')
      {
        path: '/register',
        component: register
+     },
+     {
+       path: '/usercenter',
+       component: usercenter
      }
    ]
 

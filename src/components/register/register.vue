@@ -124,7 +124,7 @@
             .then(res => {
               if (res.data) {
                 localStorage.setItem('username', username)
-                this.$router.push('/login')
+                this.$router.push('/usercenter')
               }
             })
         } else {

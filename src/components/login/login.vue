@@ -4,6 +4,7 @@
       <div class="login_bg">
         <!--头部 回退键 注册-->
         <div class="head-top rela ftc">
+          <!--<router-link to="/home" class="aback page-top"></router-link>-->
           <a class="aback page-top" href="javascript:void(0)" onclick="history.go(-1)"></a>
           <div class="zfont ft16 block">
             <!--<a class="afff" href="javascript:;">注册</a>-->
