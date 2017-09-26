@@ -163,18 +163,20 @@
         axios.get(url)
           .then(response => {
             const result = response.data
-            if (result.code === 0) {
-              this.data = result.data
-              console.log('vue-resource', this.data)
-              if (result.data.username === username && result.data.password === password) {
-                MessageBox('登陆成功')
-              } else {
-                MessageBox('登陆失败')
-              }
+            this.data = result.data
+            /* console.log('vue-resource', this.data) */
+            /* console.log('vue-result', result.data) */
+            let index = result.data.findIndex(item => {
+              return item.username === username && item.password === password
+            })
+            if (index === -1) {
+              MessageBox('登陆失败')
             } else {
-              console.log('xxxxxxxxxx')
+              MessageBox('登陆成功')
             }
           })
+        this.username = ''
+        this.password = ''
       }
     },
 
