@@ -1,0 +1,968 @@
+{
+  // 所有 tab 项
+	"mainPage": {
+		"name": "首页",
+		// 轮播图
+		"carousel": [
+			{ "url": "https://img2.epetbar.com/nowater/2017-09/20/10/4288b3a722d59db33b34181caa7ef1e4.jpg@!water" },
+			{ "url": "https://img2.epetbar.com/nowater/2017-09/17/20/2f22dca3244be0c298c23455b712d951.jpg@!water" },
+			{ "url": "https://img2.epetbar.com/nowater/2017-09/18/10/c3d406e9e2219ab08e083548161061d4.jpg@!water" },
+			{ "url": "https://img2.epetbar.com/nowater/2017-09/17/22/cdcd8c83b502b9c82b3e88348e08c1a3.jpg@!water" },
+			{ "url": "https://img2.epetbar.com/nowater/2017-09/18/10/ed80ee64f24384450e757c1188e553dc.png@!water" },
+			{ "url": "https://img2.epetbar.com/nowater/2017-09/18/08/c6ddc480d009e7ec42f4933070377dc6.jpg@!water" },
+			{ "url": "https://img2.epetbar.com/nowater/2017-09/13/19/b251b13a83841b2268bc05a012b5c5a8.jpg@!water" },
+			{ "url": "https://img2.epetbar.com/nowater/2017-09/18/15/409553239265ca47621c007fb11c3241.jpg@!water" }
+		],
+		// 新人专享 活动
+		"activities": {
+			"url": "https://img2.epetbar.com/nowater/2017-07/03/8/747562c921cd37cf0dafbe24ccfe62bd.gif"
+		},
+		// 列表项导航
+		"columnnav": [
+			{ "url": "https://img1.epetbar.com/2017-09/20/19/e77641bc5e038c17069fc3b0953ed82a.png@!water" },
+			{ "url": "https://img1.epetbar.com/2017-09/20/19/93e48869e3da723f9248c27718f39956.png@!water" },
+			{ "url": "https://img1.epetbar.com/2017-09/20/19/c8eb54f31278c068ec5d731ec650a886.png@!water" },
+			{ "url": "https://img1.epetbar.com/2017-09/20/19/0b7132cfff063d7f17f614c25ce9da1c.png@!water" },
+			{ "url": "https://img1.epetbar.com/2017-09/20/19/b3fa851021c844ae8a7493567c26e8ce.png@!water" },
+			{ "url": "https://img1.epetbar.com/2017-09/20/19/4335b268a53422a205c1f322370d31c1.png@!water" },
+			{ "url": "https://img1.epetbar.com/2017-09/20/19/cca7810f68fe70fa82aff20f53c2eaa0.jpg@!water" },
+			{ "url": "https://img1.epetbar.com/2017-09/20/19/4824fda684e35c6597fa4e1b00eca0c3.png@!water" }
+		],
+		// 每日疯抢
+		"surprise":
+		[
+			{
+				"price": "52.00",
+				"minPrice": "23.00",
+				"supUrl": "https://img1.epetbar.com/2016-12/12/14/1c7066fead510c7df3c2f9ce352378a3.png"
+			},
+			{
+				"price": "92.00",
+				"minPrice": "23.00",
+				"supUrl": "https://img1.epetbar.com/2016-03/24/10/b7049e19c8c32d87c1ec06e587c82f58.jpg"
+			},
+			{
+				"price": "499.00",
+				"minPrice": "301.00",
+				"supUrl": "https://img1.epetbar.com/2016-04/15/14/2783918293983ec07c3b51aa6ef7d462.jpg"
+			},
+			{
+				"price": "72.00",
+				"minPrice": "47.00",
+				"supUrl": "https://img1.epetbar.com/2016-12/06/12/a3a78e3d2382a229a800ba2400c47492.jpg"
+			},
+			{
+				"price": "66.00",
+				"minPrice": "24.00",
+				"supUrl": "https://img1.epetbar.com/2017-07/17/19/56c84a263605bc3767804b87b9e599d4.jpg"
+			},
+			{
+				"price": "14.50",
+				"minPrice": "14.50",
+				"supUrl": "https://img1.epetbar.com/2016-09/21/10/50baaa351ba6a2d69f07514af4154c04.jpg"
+			},
+			{
+				"price": "19.90",
+				"minPrice": "13.10",
+				"supUrl": "https://img1.epetbar.com/2015-12/16/14/1eeaee56e73f530a82670225b58af5c7.jpg"
+			},
+			{
+				"price": "1.00",
+				"minPrice": "3.60",
+				"supUrl": "https://img1.epetbar.com/2017-05/31/16/5d863bbb0b2e7bc8bfc546e0ca671f97.jpg"
+			},
+			{
+				"price": "15.90",
+				"minPrice": "6.60",
+				"supUrl": "https://img1.epetbar.com/2017-07/13/15/1009e07d445939d7d618cfa2e0c1856d.jpg"
+			},
+			{
+				"price": "11.00",
+				"minPrice": "11.00",
+				"supUrl": "https://img1.epetbar.com/2017-06/26/14/b20680ecb7050048b0268a93c83bb044.jpg"
+			},
+			{
+				"price": "34.50",
+				"minPrice": "24.50",
+				"supUrl": "https://img1.epetbar.com/2016-01/08/10/e5181a68d43ebc5959bcb52aa680279d.jpg"
+			},
+			{
+				"price": "2.50",
+				"minPrice": "2.50",
+				"supUrl": "https://img1.epetbar.com/2015-07/03/ea4403a795924094590985b3cffbf654.jpg"
+			},
+			{
+				"price": "8.75",
+				"minPrice": "8.75",
+				"supUrl": "https://img1.epetbar.com/2016-01/21/10/439e3577f462637499450b148698c9e0.jpg"
+			}
+		],
+		// 热门栏目
+		"hotItems":
+		{
+			"title": "https://img2.epetbar.com/nowater/2017-03/09/18/ca98c516add7611e3d0d810d58c087bf.jpg",
+			"dogItem": "https://img2.epetbar.com/nowater/2017-07/10/17/565a1711d0681551002e8fdd59ec3b6f.png@!water",
+			"weekItem": "https://img2.epetbar.com/nowater/2017-09/18/11/06a794c1bca77f103a85e1f36bb4052d.png@!water",
+			"tuanItem": "https://img2.epetbar.com/nowater/2017-07/10/17/53ad9c80775c262dd463ec8d05a92ca7.jpg@!water"
+		},
+		// 潮品视频
+		"hotAudio": {
+			"title": "https://img2.epetbar.com/nowater/2017-07/06/8/7b40d88fc2263cf593bf07559e71cec0.png",
+			"content": {
+				"audioUrl": "https://img1.epetbar.com/2017-07/28/13/2506a15cf4e969125891d29f869b8572.jpg@!500w0h",
+				"audioTitle": "神奇饮水除口臭",
+				"watchNumber": "18956",
+				"time": "01:13"
+			}
+		},
+		// 体验馆
+		"experience": {
+			"title": "https://img2.epetbar.com/nowater/2017-04/19/18/9cfe1253127a6fa47de6e711e216d1ee.png",
+			"imgUrl": "https://img2.epetbar.com/nowater/2017-09/14/09/3862fcd9c0004d91a81ad63a494b82a0.jpg@!water"
+		},
+		// 品牌特卖
+		"goodsSale": {
+			"title": "https://img2.epetbar.com/nowater/2017-04/19/20/7f62736d64ad9222875ff3f36d094997.png",
+			"goods": [
+				{
+					"shop": "ZIWI",
+					"detail": "参与征集，巅峰带你免费畅游新西兰！",
+					"imageUrl": "https://img2.epetbar.com/nowater/2017-09/17/22/9e519832fe6f79d3e8b8f4a6ff2b0344.jpg@!water"
+				},
+				{
+					"shop": "伯纳天纯",
+					"detail": "",
+					"imageUrl": "https://img2.epetbar.com/nowater/2017-09/20/09/88edca1b9538b28257f4c14fa546d55e.jpg@!water"
+				},
+				{
+					"shop": "蒙贝",
+					"detail": "超值满省",
+					"imageUrl": "https://img2.epetbar.com/nowater/2017-09/15/13/7b30ee33f245ca3aeeb96101ed869d2e.jpg@!water"
+				},
+				{
+					"shop": "海洋之星FISH4DOGS",
+					"detail": "",
+					"imageUrl": "https://img2.epetbar.com/nowater/2017-09/04/10/85ee6b88797f7f5662dd298980a079d3.jpg@!water"
+				},
+				{
+					"shop": "冠能",
+					"detail": "送178元宠物碗",
+					"imageUrl": "https://img2.epetbar.com/nowater/2017-09/05/11/f5a8e5759be0295bc0f49f88efecd4bb.jpg@!water"
+				},
+				{
+					"shop": "丝倍亮",
+					"detail": "8折加送丝巾",
+					"imageUrl": "https://img2.epetbar.com/nowater/2017-09/05/14/c910e01072da0cf4a83eafda5a492f3f.jpg@!water"
+				},
+				{
+					"shop": "荣耀玛氏",
+					"detail": "全场6折起",
+					"imageUrl": "https://img2.epetbar.com/nowater/2017-09/19/10/2f0b98bc57350354a0cbfe1090c97ae2.jpg@!water"
+				},
+				{
+					"shop": "优卡",
+					"detail": "只为爱宠卓越表现",
+					"imageUrl": "https://img2.epetbar.com/nowater/2017-09/20/13/1b18c703af536f15160beb1d0de06275.jpg@!water"
+				},
+				{
+					"shop": "禾仕嘉&SMartbones",
+					"detail": "",
+					"imageUrl": "https://img2.epetbar.com/nowater/2017-09/19/13/4c58a988b2d91593f0bbadbd20d90a2a.jpg@!water"
+				},
+				{
+					"shop": "爱普士妙鲜包",
+					"detail": "8折尝鲜",
+					"imageUrl": "https://img2.epetbar.com/nowater/2017-08/31/10/6452054f25e2d89ce1413ecdc7d43a43.jpg@!water"
+				},
+				{
+					"shop": "NexGard尼可信",
+					"detail": "",
+					"imageUrl": "https://img2.epetbar.com/nowater/2017-09/18/16/02601e1592dd7cff65711e59a0c997dd.jpg@!water"
+				}
+			]
+		},
+		// TA公益
+		"TA": {
+			"titleUrl": "https://img2.epetbar.com/nowater/2016-12/02/12/617e8ae8c72da60d562a30170c26c118.jpg",
+			"more": "https://img2.epetbar.com/nowater/2016-12/02/16/0d2acd3b4d742a510dfa0142d493e145.png",
+			"backUrl": "https://img2.epetbar.com/nowater/2016-12/02/12/20c6bcc947e062dae210b391e2fa6a98.jpg",
+			// 品牌
+			"brand": "15",
+			// 捐赠总计
+			"totalMoney": "1,051,291.81",
+			// 公益活动
+			"activities": "2",
+			// 领养人
+			"persons": "34"
+		},
+		// 赞助商
+		"sponsor": {
+			"sponsorUrl": "https://img2.epetbar.com/nowater/2016-12/02/12/c31f5c121481db47aaf92f04d6be2d6e.png",
+			"helpers": [
+				{
+					"helperUrl": "https://static.epetbar.com/static_wap/appmall/main/epet_brand_logo.png",
+					"helpMoney": "已捐助¥251566.80"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/2016-08/18/16/637879a33f1ea84ccdbfa2dc1b3de16e.jpg",
+					"helpMoney": "已捐助¥167020.59"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/brand_logo/2017-07/14/10/86414673b92fb227bbd0d006949814ab.jpg",
+					"helpMoney": "已捐助¥153939.69"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/brand_logo/2015-10/17/12/d9e05c4a2d35c88ffee0dcec98fba6a4.jpg",
+					"helpMoney": "已捐助¥67659.89"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/2016-08/18/16/92371ab34de0ea12b67028d6625c5180.jpg",
+					"helpMoney": "已捐助¥60737.68"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/2016-08/18/16/c997f3ae79a7568cf7b6dde5c7b7f8b1.jpg",
+					"helpMoney": "已捐助¥52455.59"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/16/276527f25e9151ef48b0b8d2dba79d29.jpg",
+					"helpMoney": "已捐助¥51406.73"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/brand_logo/2016-08/12/14/f72f0855fa02052f23c3d19b22f8242c.jpg",
+					"helpMoney": "已捐助¥40166.52"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/brand_logo/2017-07/14/10/554b6be0390fa8c1254322d8f4af10b5.jpg",
+					"helpMoney": "已捐助¥33811.71"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/brand_logo/2017-02/13/12/c62b86f4f88077ce1727887f53077fb5.jpg",
+					"helpMoney": "已捐助¥33279.07"
+				},
+				{
+					"helperUrl": "https://wap.epet.com/brand/bd1158.html?fw=0",
+					"helpMoney": "已捐助¥28744.59"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/2016-08/18/18/f02f4ec6603b8ac8ee8e79e4a4fd6c8b.jpg",
+					"helpMoney": "已捐助¥26806.46"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/2016-08/19/10/fc04341d858e72a3937fd5484f4a32e8.jpg",
+					"helpMoney": "已捐助¥25000.00"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/2016-08/18/16/31b7dfdd08ce602f1239ae8ce7954802.jpg",
+					"helpMoney": "已捐助¥25000.00"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/brand_logo/2012-12/19/173b650c034343e5244bc8fba89704c8.jpg",
+					"helpMoney": "已捐助¥18775.04"
+				},
+				{
+					"helperUrl": "https://img2.epetbar.com/nowater/brand_logo/2015-08/17/10/2a7c8efcc191a03430fe2af6df594d4a.jpg",
+					"helpMoney": "已捐助¥14921.44"
+				}
+			]
+		},
+		// 口碑评价
+		"ratings": {
+			"title": "https://img2.epetbar.com/nowater/2017-01/13/20/a1225213b3d2bc9067676102e629bf1e.png",
+			"rate": "99.64",
+			"comments": [
+				{
+					"avatar": "https://img1.epetbar.com/2017-03/29/14/d1cf520f66912ee6adcb29ffebe2efc8.jpg@!200w-c",
+					"time": "加入E宠2年1月",
+					"username": "红*****ω",
+					// 宠物
+					"pet": "中华田园猫",
+					"detail": "包装完美，没有破漏的情况存在，虽说是跨境运输，但是物流的速度还是比想象中快，最主要的还是正品保证，买得放心吃的安心"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2017-02/03/12/2bfa814e0924d3c870a2b758c335b18d.jpg@!200w-c",
+					"time": "加入E宠2年7月",
+					"username": "自***人",
+					"pet": "萨摩耶",
+					"detail": "物流挺给力，到货很快。包装也十分的棒，外面还有塑料薄膜包裹，非常好，一看就让人觉得质量绝对一级棒。客服真心不错，很耐心的给你讲解！就冲这个大大的好评，以后狗狗的东西直接来这里！ 再次祝e宠生意兴隆。"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2017-09/12/23/8043d31b146060df1a3aa6b96abf138f.jpg@!200w-c",
+					"time": "加入E宠3月",
+					"username": "殳**白",
+					"pet": "哈士奇",
+					"detail": "不知不觉中这已经是第16次在E宠购物了，其实我家二妹才来了三个多月。二妹吃的，用的，玩的，包括生病的药全部是在E宠买的，看中的就是正品保障和一流的物流。印象最深的是618活动的时候因为订单量太大，有一个单子没有按时送到，我联系了客服，客服保证第二天送到，结果第二天晚上十一点多的时候E宠的工作人员开着自家的小轿车把货送到了我家楼下，兑现了承诺。希望E宠以后越来越好，继续做广大铲屎官的坚实后盾。"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2017-08/24/11/e7030985852d17997447c540f5da41f2.jpg@!200w-c",
+					"time": "加入E宠2月",
+					"username": "奥****家",
+					"pet": "中华田园猫",
+					"detail": "客服和物流都是特别的满意，以前曾经在天猫国际买，但是物流速度太慢了。e宠的速度快不说，东西绝对是真货，最重要的是，每次的减震避震都做的特别完美。开了水族站之后，以后家里宠物的东西全都e宠买了。"
+				}
+			]
+		}
+	},
+	"foods": {
+		"name": "主粮",
+		"carousel": [
+			{"url": "https://img2.epetbar.com/nowater/2017-09/15/08/f14111185e59a9baf30a3f725cc36126.png@!water"},
+			{"url": "https://img2.epetbar.com/nowater/2017-09/15/08/bb07b4aaa3673a761221e2fa841bc85c.png@!water"},
+			{"url": "https://img2.epetbar.com/nowater/2017-09/15/08/a4a9af65943791fd74db9a5ae3cb38b7.png@!water"}
+		],
+		"tabClass": {
+			// 进口主粮
+			"outer": {
+				"title": "https://img1.epetbar.com/2017-08/02/14/562c15b9f8f53988959d97d47d63b1a7.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/02/14/f500a1d8b9c334b0be55a349f04b0bec.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-08/02/15/b21b49c58dea4eb0a9a057795d71620d.jpg",
+					"https://img1.epetbar.com/2017-08/02/15/7c9d752bdbe538ed870974848f25e17d.jpg",
+					"https://img1.epetbar.com/2017-08/02/15/d9441034ad9b61ada9853a51388bb340.jpg",
+					"https://img1.epetbar.com/2017-08/02/15/1137016f8c968e4855461fa4f280c728.jpg",
+					"https://img1.epetbar.com/2017-08/02/15/06ce76f3b037510aa52e31ac7fbeca19.jpg",
+					"https://img1.epetbar.com/2017-08/02/15/ab2d57fe1334119316c39345c65af3d4.jpg"
+				]
+			},
+			// 国产主粮
+			"inner": {
+				"title": "https://img1.epetbar.com/2017-08/02/14/443c7633200dacd9b0403985b45f42ac.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/02/14/80262ba5cfea6d22408daa472bd763d8.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-08/02/16/470a7338afe79f6775f32dbb38f26a9c.jpg",
+					"https://img1.epetbar.com/2017-08/02/16/3bdad8463d8b13fd83230d4777eb5eb8.jpg",
+					"https://img1.epetbar.com/2017-08/02/16/56d2cd336393223f4624c35ae65165b2.jpg",
+					"https://img1.epetbar.com/2017-08/02/16/0f0860a31161c14503f7f943acb944c7.jpg",
+					"https://img1.epetbar.com/2017-08/02/16/9ead012bdb55ad1144ad86dd7b522f85.jpg",
+					"https://img1.epetbar.com/2017-08/02/16/ad617b8387e497562c455f5fa9ecd4b3.jpg"
+				]
+			},
+			// 口味配方
+			"taste": {
+				"title": "https://img1.epetbar.com/2017-08/02/14/5bb670292c914709995b7f59d83b1617.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/02/14/9cd38109100b17000abea371addcb1b0.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-08/02/17/ed38fad33fc6832ffe313498b03442f0.jpg",
+					"https://img1.epetbar.com/2017-08/02/17/3b22cce883a5abd4adafa377c72048fe.jpg",
+					"https://img1.epetbar.com/2017-08/02/17/01e9a859acc8d1b83a95c026a8d3434f.jpg",
+					"https://img1.epetbar.com/2017-08/02/17/1ae21059eb105ae40e831aaabb84b924.jpg",
+					"https://img1.epetbar.com/2017-08/02/17/1e168ed6b8efa23da154822faa63d21d.jpg",
+					"https://img1.epetbar.com/2017-08/02/17/c203dc3fac020eb27a5adf420a3937dc.jpg"
+				]
+			},
+			// 单斤价格
+			"price": {
+				"title": "https://img1.epetbar.com/2017-08/02/14/9227a22394215f9572d3bea2fe1699d4.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/02/14/9063225106d67e2cd05167f71ff6e7cc.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-08/02/19/3ffb6d9a013c82adfd2fd283213ed003.jpg",
+					"https://img1.epetbar.com/2017-08/07/09/f2d733365195efa1db68d410fdb37cec.jpg",
+					"https://img1.epetbar.com/2017-08/07/09/2fd411ba0fdfcb190c37566b2f0d23b0.jpg",
+					"https://img1.epetbar.com/2017-08/07/09/3fb09f83eccead0684956d82c73ef385.jpg",
+					"https://img1.epetbar.com/2017-08/07/10/a1c024b1ad2030756b25907fa5cd5513.jpg",
+					"https://img1.epetbar.com/2017-08/07/10/1636231472b2d290f52685936ef2c53c.jpg"
+				]
+			}
+		},
+		// 广告
+		"ads": {
+			"left": "https://img2.epetbar.com/nowater/2017-07/31/14/5df340d068e4bc97759d801edcd5ac19.jpg@!water",
+			"rightTop": "https://img2.epetbar.com/nowater/2017-07/31/14/6ebc7bc52a02cc2fb2d725dd9ebe58aa.jpg@!water",
+			"rightBottom": "https://img2.epetbar.com/nowater/2017-07/31/14/e8fa7e93ded2be02792cbade66353832.jpg@!water"
+		},
+		// 精选活动
+		"activities": [
+			{
+				// 商家
+				"shop": "丝倍亮",
+				// 主图
+				"title": "https://img2.epetbar.com/nowater/2017-09/19/09/2e53bef967f57864abbe39e10d131bf8.jpg@!water",
+				// 查看全部
+				"showMore": "https://static.epetbar.com/static_wap/appmall/lib/list/more_all.jpg",
+				// 商品
+				"items": [
+					{
+						"avatar": "https://img1.epetbar.com/2016-11/28/18/9dc65dc1e5f4daaeb557ac4cc5096f45.jpg@!300w-b",
+						"detail": "冠能 中型犬幼犬全价犬粮 1.3kg",
+						"price": "￥76.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-10/13/10/1e1cba9934d43ed8bfd5143213a2b918.jpg@!300w-b",
+						"detail": "澳大利亚丝倍亮Supercoat 小型犬幼犬全价犬粮 1.5kg",
+						"price": "￥36.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-10/13/10/45be279f6c2f58851a5843d3937d5fee.jpg@!300w-b",
+						"detail": "澳大利亚丝倍亮Supercoat 小型犬幼犬全价犬粮 7.5kg",
+						"price": "￥246.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-10/13/10/b2bc9fbf5bb061227ec9f4f2fb302ebb.jpg@!300w-b",
+						"detail": "澳大利亚丝倍亮Supercoat 小型犬成犬全价犬粮 7.5kg",
+						"price": "￥229.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-10/13/10/42d2720cf7eabb457d3680d5388797d9.jpg@!300w-b",
+						"detail": "澳大利亚丝倍亮Supercoat 成犬全价犬粮 15kg",
+						"price": "￥389.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-10/13/10/1c65c440ab064789beb8f584b2ae2bcf.jpg@!300w-b",
+						"detail": "澳大利亚丝倍亮Supercoat 老年犬全价犬粮 15kg",
+						"price": "￥415.00"
+					}
+				]
+			},
+			{
+				"shop": "耐吉斯",
+				"title": "https://img2.epetbar.com/nowater/2017-09/13/16/d002e51d2936b3e610dad6c302113a4e.jpg@!water",
+				"showMore": "https://static.epetbar.com/static_wap/appmall/lib/list/more_all.jpg",
+				"items": [
+					{
+						"avatar": "https://img1.epetbar.com/2016-12/21/10/ad634e600ecfece56fc3874748f37467.png@!300w-b",
+						"detail": "耐吉斯SOLUTION 鸡肉+三文鱼配方幼犬粮 3磅/1.36kg",
+						"price": "￥95.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-12/21/12/2ff41841a83777aa05baa9b03f77267d.png@!300w-b",
+						"detail": "耐吉斯SOLUTION 鸡肉+三文鱼配方奶糕粮 3.3磅/1.5kg",
+						"price": "￥115.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-12/21/10/d1910db9d7e66405c16f19d484cccd5b.png@!300w-b",
+						"detail": "耐吉斯SOLUTION 鸡肉+三文鱼成犬粮 3磅/1.36kg",
+						"price": "￥90.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-12/21/10/5f4ced4348e46974644b7d5db1cae8a9.png@!300w-b",
+						"detail": "耐吉斯SOLUTION 鸡肉三文鱼配方玩赏犬粮 3.3磅/1.5kg ",
+						"price": "￥110.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-12/21/10/5eeb31efc326dbb69e79cc87872debb9.png@!300w-b",
+						"detail": "耐吉斯SOLUTION  鸡肉+三文鱼配方幼犬粮 16磅/7.26kg",
+						"price": "￥389.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-12/21/10/c0bfa7b46316959c8f351140af9b7828.png@!300w-b",
+						"detail": "耐吉斯SOLUTION 鸡肉+三文鱼配方奶糕粮 18磅/8.16kg",
+						"price": "￥429.00"
+					}
+				]
+			},
+			{
+				"shop": "优卡EuKanuba",
+				"title": "https://img2.epetbar.com/nowater/2017-09/20/13/d7baa12de1a7915eeaba2ab8c010782b.jpg@!water",
+				"showMore": "https://static.epetbar.com/static_wap/appmall/lib/list/more_all.jpg",
+				"items": [
+					{
+						"avatar": "https://img1.epetbar.com/2015-09/12/16/84a72431d0cea2db5af6354c8c039304.jpg@!300w-b",
+						"detail": "优卡EuKanuba 小型犬幼犬粮 1kg",
+						"price": "￥54.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2015-09/12/10/5f56e87b0c1b791272fcef8c303a79a2.jpg@!300w-b",
+						"detail": "优卡EuKanuba 小型犬成犬粮  1kg",
+						"price": "￥51.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2017-06/16/12/9eaee989d10d3ac0b8a2b17927f6c489.jpg@!300w-b",
+						"detail": "优卡EuKanuba 小型犬幼犬粮   3kg",
+						"price": "￥141.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2017-06/19/12/2aa1399fd49faf7c1d4f337a491e76c9.jpg@!300w-b",
+						"detail": "优卡EuKanuba 小型犬成犬粮 3kg",
+						"price": "￥125.40"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2015-11/16/16/17640f6fd189f03c9ba14087403335ab.jpg@!300w-b",
+						"detail": "优卡EuKanuba 大型犬幼犬粮 金毛萨摩耶狗粮 3kg",
+						"price": "￥119.40"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2017-06/19/12/d9fadec6a2328002f0c9d8050f28423a.jpg@!300w-b",
+						"detail": "优卡EuKanuba 大型犬成犬粮 3kg",
+						"price": "￥125.40"
+					}
+				]
+			}
+		]
+	},
+	"health": {
+		"name": "医疗保健",
+		// 轮播图
+		"carousel": "https://img2.epetbar.com/nowater/2017-09/17/22/e8b35e5a5d8a8b6d7f190cf93d92b6a0.png@!water",
+		// 分类
+		"tabClass": {
+			// 驱虫
+			"insec": {
+				"title": "https://img1.epetbar.com/2017-08/10/10/ae6f576fea67f9cb95b9722a7f1c84d3.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/10/10/a989abf7539cba044851318ab4be56be.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-08/03/14/ce5df7df2d978a8d891b5888e338c096.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/a215ce5148d36f5df1096c6175ad4d74.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/32f548891d46fc0ce7c45285670fcb97.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/fc31c114ae1b994aab3775f207759095.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/eb69538c90cf5ebc2c1867984a5d4a70.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/37359244597cf0770428bb665d059eba.jpg"
+				]
+			},
+			// 皮肤病
+			"skin": {
+				"title": "https://img1.epetbar.com/2017-08/10/10/cb1bb7838e96db46b752f2fa2e38dd28.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/10/10/7b95ecc16b79c754fac45937ce6c9f1a.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-08/03/14/02f5c9728729a7230e0879b6097efcfc.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/6003d1f38aa8853c49e4e0a49df29ee4.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/922ac89c97b250ed4d8c65c261e4318b.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/06b28aa698cc6a430587eb2a01cd8061.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/57bb35d96db2c4071404c88eeb7de208.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/c44e70bf78b40cf84c1a1be54d2197a8.jpg"
+				]
+			},
+			// 常见疾病
+			"normal": {
+				"title": "https://img1.epetbar.com/2017-08/10/10/81ab1f639c99c1f5bbda88dbc01d9e19.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/10/10/9e39ba2a342f219a7c9f6e2bd4b0bf94.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-08/03/14/838e4aeeda2a61dc3e54e02f8f7018a8.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/46d8cd73306558bb7928b367f5bfebd1.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/ba5f84ec6ef16c343ddb790f322a6c27.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/e30c43aa3b8aaa96769f856436003848.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/b49e3a5b1a2b01653d1fd54093246ec5.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/c52a30a35154046b750bfe67706bb50f.jpg"
+				]
+			},
+			// 全部护理
+			"total": {
+				"title": "https://img1.epetbar.com/2017-08/10/10/5e09f838e5ffdc9e06f69958b975ac5d.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/10/10/9e6636406dbf0fc26adbc0265a475f44.png",
+				"classes": [
+					"https://img1.epetbar.com/2017-08/03/14/695940d4759a6c3c28042feb4ba0a402.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/c2ce7348642f3701a375cc377374c45c.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/b07170444f2e268feee5a452403ea33f.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/412a4619e0754065d4671a30caa57425.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/ff1afe47a9fc23721218b4f6a8a57677.jpg",
+					"https://img1.epetbar.com/2017-08/03/14/5ed19b8980ba1b781d2ceabbcbf9b943.jpg"
+				]
+			}
+		},
+		// 广告
+		"ads": {
+			"left": "https://img2.epetbar.com/nowater/2017-08/04/14/d720be7dab61d13745d644d26a0feaef.jpg@!water",
+			"rightTop": "https://img2.epetbar.com/nowater/2017-08/04/14/5914108edeadbfba0118b6c2ec9a26c1.jpg@!water",
+			"rightBottom": "https://img2.epetbar.com/nowater/2017-08/04/14/b405fedf3e8d3dd537928f8b997a628b.jpg@!water"
+		},
+		// 精选活动图标
+		"actUrl": "https://img2.epetbar.com/nowater/2017-08/16/21/d70dfd168cc7b150120af978ae59d715.jpg",
+		// 精选活动
+		"activities": {
+			// 活动一
+			"firstAct": {
+				"title": "https://img2.epetbar.com/nowater/2017-09/18/17/28427e4c44d0ca292d78bcf5482b8c3b.png@!water",
+				"showAll": "https://static.epetbar.com/static_wap/appmall/lib/list/more_all.jpg",
+				"items": [
+					{
+						"avatar": "https://img1.epetbar.com/2016-07/22/10/086dc216590b2647f4f3f578decdc527.jpg@!300w-b",
+						"detail": " 美国麦德氏 IN-Basic 宠物高单位活化益生菌  5g*1袋 ",
+						"price": "￥1.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-07/16/10/e0158e35600b7564450cae892bea55e3.jpg@!300w-b",
+						"detail": "美国品牌麦德氏 IN-Basic高单位活化益生菌 5g*5袋",
+						"price": "￥28.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-03/24/10/52be53029e9fc9da44634384c2b9f5bd.jpg@!300w-b",
+						"detail": "美国麦德氏  IN-BASIC 日常基础调理系列 犬用消食片（综合消化酶+益生菌）150片",
+						"price": "￥28.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-03/29/10/13de4000a85749a04fb7330fbe7acd5b.jpg@!300w-b",
+						"detail": "美国麦德氏  IN-BASIC 日常基础调理系列 犬用螯合微量元素片 150片 ",
+						"price": "￥28.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-03/29/10/2e7235c64b76b9dcc16fd981f37bb6e4.jpg@!300w-b",
+						"detail": "美国麦德氏  IN-BASIC日常基础调理系列  犬用羊乳钙片 150片",
+						"price": "￥28.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2015-10/29/16/b06cc964ebe8c34a9fb524a0fcf66274.jpg@!300w-b",
+						"detail": "美国麦德氏  IN-BASIC 日常基础调理系列  犬用复合维生素片 150片",
+						"price": "￥28.00"
+					}
+				]
+			},
+			// 活动二
+			"secondAct": {
+				"title": "https://img2.epetbar.com/nowater/2017-09/18/17/b54ed2f275ac408ab56fe15606f24d80.png@!water",
+				"showAll": "https://static.epetbar.com/static_wap/appmall/lib/list/more_all.jpg",
+				"items": [
+					{
+						"avatar": "https://img1.epetbar.com/2017-09/02/15/b4927370712f46461053881d424c384a.jpg@!300w-b",
+						"detail": "犬心保 驱虫牛肉块 S 体重11kg以下 单片",
+						"price": "￥28.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-01/05/14/8f6a73d968c02b257c67327176e957b7.jpg@!300w-b",
+						"detail": "犬心保 驱虫牛肉块 M 体重12-22kg 单片装",
+						"price": "￥33.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-01/05/14/d10fa675119349ac255e49e354bc1b2e.jpg@!300w-b",
+						"detail": "犬心保 驱虫牛肉块 L 体重23-45kg 单片装",
+						"price": "￥40.00"
+					}
+				]
+			}
+		}
+	},
+	"toys": {
+		"name": "零食玩具",
+		// 轮播图
+		"carousel": [
+			"https://img2.epetbar.com/nowater/2017-09/15/08/3d82338df309756421fcc4679f371050.jpg@!water",
+			"https://img2.epetbar.com/nowater/2017-09/15/08/c842418c2f025c375f32be53839e9dd7.jpg@!water",
+			"https://img2.epetbar.com/nowater/2017-09/15/08/37409b7f248f9b1c1b61fd77ce846e6a.jpg@!water"
+		],
+		// tab项 分类
+		"tabClass": {
+			// 肉质零食
+			"snacks": {
+				"title": "https://img1.epetbar.com/2017-08/31/09/3ddeae131c66d1e9d02be2f5450fb7a6.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/31/09/c67461295c342aa9e30c3e1bbe1b07e5.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/13/15/d194e15abbcc57cb5d926a606b2adee8.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/13ddf8228fb7c3e2cb76b7fa5a302ab5.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/98f92ca30f29e24a1168c9d24998544c.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/70c20a272336884401f90781f5f93f21.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/740883924fe30cd19ab39e4df8ac7e82.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/bece10723aa43fd5a8fedd9216b95487.jpg"
+				]
+			},
+			// 磨牙洁齿
+			"clean": {
+				"title": "https://img1.epetbar.com/2017-08/31/09/11925baaf6652097eea5a9f6b996c21a.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/31/09/64fa517cacede8407ecbbbef778bf1c1.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/13/15/b5a47fbb4bd448d6e72e680551341da4.jpg",
+					"https://img1.epetbar.com/2017-09/19/10/8b56a3aadb664d62949a23dcae756152.jpg",
+					"https://img1.epetbar.com/2017-09/19/10/6c05c175e8aac73009557a6c72f73157.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/c6ec859701f623d2701c2c180a19b291.jpg"
+				]
+			},
+			// 罐头点心
+			"cans": {
+				"title": "https://img1.epetbar.com/2017-08/31/09/cbeb0b8c34a3458cd2a70335ea9a25bb.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/31/09/6d7cc714bf86ec21b340cd53eb531cf5.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/13/15/6ed33fbc8aab39a532a4d62808685644.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/871a5e0e10eff0f4068b723a3d68ffec.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/2a8fb1e1f20773852ea85a4d2f919b89.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/93a11841adb75679d2495399dd069787.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/47d523c73518af44a46121af322c48c2.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/33ba17fe73c9b034bcda641450f46cb6.jpg"
+				]
+			},
+			// 玩具
+			"toys": {
+				"title": "https://img1.epetbar.com/2017-08/31/09/f0d09b22a156c6c2c44d39c9596c30b3.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-08/31/09/b163875bcefa76c455740f4a0940c88c.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/13/15/37fbd2e1716712cdfb6a2c54b162219b.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/eddfa3376ed5ce6818fd6a2cb68f6437.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/887ef1c7ef4139d789647b9039ece35e.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/f2894e7ee664cc99e7d07f97c504d850.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/3a79a1b2f9bc13c9dc9088403089fde4.jpg",
+					"https://img1.epetbar.com/2017-09/13/15/3798d161779c94253cc48b9545a09273.jpg"
+				]
+			}
+		},
+		// 精选活动
+		"activities": [
+			{
+				"title": "https://img2.epetbar.com/nowater/2017-09/15/09/5304f371e38994b1c4eea410112d7311.jpg@!water",
+				"showAll": "https://static.epetbar.com/static_wap/appmall/lib/list/more_all.jpg",
+				"items": [
+					{
+						"avatar": "https://img1.epetbar.com/2016-11/08/18/d58acf5a0f5b59356494bf5fc84e0688.jpg@!300w-b",
+						"detail": "蒙贝 犬用牛肉干 茶多酚配方10g",
+						"price": "￥3.20"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-11/08/18/e0f7b82ba750fad690fab2b0358438b2.jpg@!300w-b",
+						"detail": "蒙贝 犬用牛肉干 牛肉原味 10g",
+						"price": "￥3.20"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-11/07/16/b655cfe47f92a4d867d28e19de46c972.jpg@!300w-b",
+						"detail": "蒙贝 羊腿新鲜蔬菜狗罐头 100g",
+						"price": "￥8.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-11/07/16/93d2981965f24eb236e93701f6fc4821.jpg@!300w-b",
+						"detail": "蒙贝 牛肉紫薯狗罐头 100g",
+						"price": "￥8.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-10/17/10/25e72ef04c46585473ca251ffc45cfc2.jpg@!300w-b",
+						"detail": "蒙贝 牛肉鳕鱼伴侣 100g",
+						"price": "￥12.80"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-10/17/10/a062c6cc487e8a84aaf682e8ffab6534.jpg@!300w-b",
+						"detail": "蒙贝 骨型牛肉块 100g",
+						"price": "￥12.80"
+					}
+				]
+			},
+			{
+				"title": "https://img2.epetbar.com/nowater/2017-09/19/10/af8823bf3e23687c7412513ca7974bf9.jpg@!water",
+				"showAll": "https://static.epetbar.com/static_wap/appmall/lib/list/more_all.jpg",
+				"items": [
+					{
+						"avatar": "https://img1.epetbar.com/2016-02/29/10/dcf6a51f1edb12b93b6acfff829c5fda.png@!300w-b",
+						"detail": "禾仕嘉 洁牙健齿系列 双效洁牙营养棒2in1 90g",
+						"price": "￥7.90"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2016-02/29/10/3c7de5b56531ab8cdb6f85bed6fc37a5.png@!300w-b",
+						"detail": "禾仕嘉 洁牙健齿系列 双效洁牙营养骨 90g",
+						"price": "￥8.60"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2015-08/03/713b20589f1b746aa744c475db626548.jpg@!300w-b",
+						"detail": "Smartbones  花生味夹肉洁齿骨 迷你2.5寸/支",
+						"price": "￥2.80"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2015-08/04/f2af408cc9de2299c687dd474cece1e0.jpg@!300w-b",
+						"detail": "Smartbones  迷你鸡肉味夹肉洁齿骨  单支/16g",
+						"price": "￥2.80"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2015-08/04/9bff91aa13f6abbae492bd3879f627bd.jpg@!300w-b",
+						"detail": "Smartbones 小号鸡肉味夹肉洁齿骨 单支/52g",
+						"price": "￥8.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2015-08/03/2f686a167c4cfbb24e83a4917d4cc41f.jpg@!300w-b",
+						"detail": "Smartbones 花生味夹肉洁齿骨 小号5寸/支",
+						"price": "￥8.00"
+					}
+				]
+			},
+			{
+				"title": "https://img2.epetbar.com/nowater/2017-09/13/18/74b95aebe2e9abad51ec0ba17cada1e7.jpg@!water",
+				"showAll": "https://static.epetbar.com/static_wap/appmall/lib/list/more_all.jpg",
+				"items": [
+					{
+						"avatar": "https://img1.epetbar.com/2017-06/02/8/9155667a8e9c550797b299d1d32c759c.jpg@!300w-b",
+						"detail": "美国原装进口 梅里亚 牙口乐犬用口腔清洁棒 XS 14支/盒 161g",
+						"price": "￥68.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2017-06/02/8/372d6350419a3c67a57a1be250e24a78.jpg@!300w-b",
+						"detail": "美国原装进口 梅里亚 牙口乐犬用口腔清洁棒 S 14支/盒 280g",
+						"price": "￥88.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2017-06/02/8/e3afe9cf5d6b7cfc0b048c229e7778fe.jpg@!300w-b",
+						"detail": "美国原装进口 梅里亚 牙口乐犬用口腔清洁棒 M 14支/盒 441g",
+						"price": "￥128.00"
+					},
+					{
+						"avatar": "https://img1.epetbar.com/2017-06/02/8/27720a5ff2a77dd1ecf556ec2ebfd005.jpg@!300w-b",
+						"detail": "美国原装进口 梅里亚 牙口乐犬用口腔清洁棒 L 14支/盒 721g",
+						"price": "￥158.00"
+					}
+				]
+			}
+		]
+	},
+	"daily": {
+		"name": "日用外出",
+		"carousel": "https://img2.epetbar.com/nowater/2017-09/18/10/05b150c1c3967c76856bdd283bf1c88d.jpg@!water",
+		"tabClass": {
+			// 餐具
+			"tableware": {
+				"title": "https://img1.epetbar.com/2017-09/04/14/9b5eb8eccf2afc5f25f511f18e5417c1.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-09/04/14/cd6019b4fed7a716f7fd90ed24a1644c.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/04/14/d354203958ad208e68f36f217b145602.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/ace66802c0ca25acc7d455599dc3a900.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/9580da74abdc5ddee8786a9e11f57f22.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/664bc343a4dd1e7fe4368e9b6ebf4f64.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/64fb9d89261145b02b57fd41aeb89155.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/793279f8a40a6e9d2295ef5297976e3b.jpg"
+				]
+			},
+			// 清洁
+			"clean": {
+				"title": "https://img1.epetbar.com/2017-09/04/14/9b5eb8eccf2afc5f25f511f18e5417c1.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-09/04/14/be673e294a1d6e65969364f9c3b45208.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/04/14/c4f76a200c5ec414f26969727da31011.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/360339363d09f659b9abe77de0946cbb.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/3261084199ac12ae5f436036bbf17ae0.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/8199050e1f1ec7d9d432df3b68aa9559.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/592dbcfcb23f590b2a77dcc9bbc3558f.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/f087e41b546a9ec9f07b1dadef38e978.jpg"
+				]
+			},
+			// 外出
+			"outer": {
+				"title": "https://img1.epetbar.com/2017-09/04/14/c1574df0b2578ed6321cb0280af793ed.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-09/04/14/f2b583ec2de1c3f66e13881b35ffabf3.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/04/14/b32aab554ae7b3a89c58c8f9e061fb37.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/104c16b1b621c9f7e3259b5e1e9edbe1.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/51f6ee0dbe5549c7ab8016c004219cde.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/0580f1e792ab83b5fd2f866df94a3e95.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/848dce83f51cccb7d3aa96113b2dc07a.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/255a30bcd592774df72fad212ca67c9e.jpg"
+				]
+			},
+			// 牵引
+			"hold": {
+				"title": "https://img1.epetbar.com/2017-09/04/14/afe12a6f960ed317ea6403669607b9b6.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-09/04/14/31a404fa764528b2c652ea1c9b58ddf5.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/04/14/af4fb0b986250099255637cc5b7a935b.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/a057fb369e6ea020dd68477c009e9948.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/3ad12fd47920184ae73da05586e460eb.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/7b27efef7fcf198d923fa877b3449ab1.jpg",
+					"https://img1.epetbar.com/2017-09/04/14/644470e284bd4de3321a666f4a7ef038.jpg"
+				]
+			}
+		},
+		// 精选活动
+		"activities": {
+			"title": "https://img2.epetbar.com/nowater/2017-09/18/12/b9e23e1068adc63d376f72bfc1636762.jpg@!water",
+			"items": [
+				{
+					"avatar": "https://img1.epetbar.com/2017-08/29/09/74535438ffee4e28f3f374855003ec01.jpg@!300w-b",
+					"detail": "2017新款爱旺 叛逆猫宠物毯子 S号61*41cm",
+					"price": "￥55.10"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2015-02/05/03fe97c86dced8c865c3c998c1fdab74.jpg@!300w-b",
+					"detail": "捣蛋鬼 粉色提拉式航空箱 长61cm*宽39cm*高45cm",
+					"price": "￥159.60"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2015-11/19/16/3bb32e54e58edb863f23964b157b423a.jpg@!300w-b",
+					"detail": "意潇 精致圆蛋形塑料碗 碗口直径14cm*碗深5cm 红色",
+					"price": "￥4.75"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2016-11/28/8/8b3cec01cbba6261124f14895465a970.jpg@!300w-b",
+					"detail": "意大利原装进口United Pets 狗狗外出航空箱 粉色51*33*37cm",
+					"price": "￥387.60"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2016-03/18/10/f5d1c4915fe17190df3d372f9a98e9d3.jpg@!300w-b",
+					"detail": "karlie 木纹犬用不锈钢食碗 深棕色 700ml",
+					"price": "￥118.75"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2015-11/25/16/848db708e64045effcc0bfa6180fe30a.jpg@!300w-b",
+					"detail": "日本Petstyle 犬用卡通宠物碳化青竹宠物凉席 50*37.5cm 小号",
+					"price": "￥17.10"
+				}
+			]
+		}
+	},
+	"beauty": {
+		"name": "美容香波",
+		"carousel": "",
+		"tabClass": {
+			"bath": {
+				"title": "https://img1.epetbar.com/2017-09/04/18/95f9b38e16d6db7ad6216da6151607e0.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-09/04/18/c072b0097463addc88b6443dff3e75b6.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/04/18/8c5ea271f2020f3a5659ae6016c67059.jpg",
+					"https://img1.epetbar.com/2017-09/04/18/dc74048e44da00fa1aaa2a234f657066.jpg",
+					"https://img1.epetbar.com/2017-09/04/18/5e8ef70a50cb612331717b6dcab9d359.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/9a7d4084617cf1befae20f1a584f394c.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/15e1ca35f0853837f7eb7f64c83ff405.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/f7b8513eac72bee396d31942cb3932d7.jpg"
+				]
+			},
+			"tools": {
+				"title": "https://img1.epetbar.com/2017-09/04/18/e465fcc34b25a0707f71f5f30f62ecf4.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-09/04/18/c9ed3f405e45793761f7f0fec3d1c68f.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/04/19/ec22e802b49f10c188e579f5ca18cb84.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/38be3fe9e1136e064a12efd4e284e37e.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/0400c839394d2d282f40a10bd1ad9efb.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/337ab2c87430a48442e4231e093f67dd.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/b24f5fee3ebc7e3ef527bc1fc5ffe870.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/45bab2ff9ba18413cd114702bce8f128.jpg"
+				]
+			},
+			"skin": {
+				"title": "https://img1.epetbar.com/2017-09/18/15/5ad03860ecd08eac939b680d3dda41b4.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-09/18/15/dad12369b1dd85330c2523a54823caaf.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/04/19/13e1c3fa11f56e819c3950c6fc9b1e81.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/2607814e3c18f6b2e08779fe30764da0.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/3589b81851c716ffbc93bf614a07ee1d.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/680209e3767a6c8c1202515029598d96.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/dbb012cc3e3b1ecceb3e5ec63b2c4952.jpg",
+					"https://img1.epetbar.com/2017-09/18/15/98dfb3845d73e15ee42d1d1b6e6bdc55.jpg"
+				]
+			},
+			"daily": {
+				"title": "https://img1.epetbar.com/2017-09/04/18/9cac25e15f9cd0e0b8124973042a05ce.jpg",
+				"titleActive": "https://img1.epetbar.com/2017-09/04/18/8393ccc7fa86801c8e1f3d818eae1b16.jpg",
+				"classes": [
+					"https://img1.epetbar.com/2017-09/04/19/1c50a7a739f1a7a06d84d15e7f8a7a2a.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/a10ec1c16ffb848fd39e81a285cb67ae.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/d51c4b840484f8bbeda1dc30aadac0d6.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/11db28b4022b14cdc6138c233af4d1b8.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/fd69c8010ed0e0a65067d62fa7b1cd99.jpg",
+					"https://img1.epetbar.com/2017-09/04/19/f048a2af26f8f64faf0cb0e35f549208.jpg"
+				]
+			}
+		},
+		// 精选活动
+		"activities": {
+			"title": "https://img2.epetbar.com/nowater/2017-09/19/11/7ca882ed710caf276694acd122974a90.png@!water",
+			"showAll": "https://static.epetbar.com/static_wap/appmall/lib/list/more_all.jpg",
+			"items": [
+				{
+					"avatar": "https://img1.epetbar.com/2017-03/07/16/2c661b5b154c7192c49416cb25289d5d.jpg@!300w-b",
+					"detail": "云禾旗下 宝夫X2犬用吹风机 1800W大功率 ",
+					"price": "￥108.00"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2015-08/13/14/b8593665771ae1da970d86d1c75250ec.jpg@!300w-b",
+					"detail": "云禾 小飞侠A9 犬用可肩背吹水机 ",
+					"price": "￥405.00"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2016-11/03/16/1ebcafcff3c7c225463bed2bbaa83a84.jpg@!300w-b",
+					"detail": "美国原装进口 PerfectCoat 珍珠白毛专用洗毛精 16oz/473ml",
+					"price": "￥62.00"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2015-07/03/5125a3d537d9703247f4de2d92aa4383.jpg@!300w-b",
+					"detail": "云禾 2400W强风力犬用吹风机 酷紫色",
+					"price": "￥198.00"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2017-05/02/18/9279a01244de2e1c2baef22b0d91a390.jpg@!300w-b",
+					"detail": "澳大利亚Dakpets 宠物专用脱毛梳 姜黄色13*5.5cm",
+					"price": "￥170.00"
+				},
+				{
+					"avatar": "https://img1.epetbar.com/2015-04/07/df9893e2701973a22fdc0c43b6f7b9c7.jpg@!300w-b",
+					"detail": "爱酷ICOOL 犬用美容剪/牙剪 6.5寸 削毛/打薄剪刀 ",
+					"price": "￥76.50"
+				}
+			]
+		}
+	}
+}
