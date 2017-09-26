@@ -1,4 +1,18 @@
-{
-  "username": "hello",
-  "password": "111"
-}
+[
+  {
+    "username": "hello",
+    "password": "11111"
+  },
+  {
+    "username": "aaa",
+    "password": "111"
+  },
+  {
+    "username": "bbb",
+    "password": "222",
+    "confirmpsw": "222",
+    "phonenum": "15643059065",
+    "seccode": "v8bl",
+    "code": "1234"
+  }
+]
